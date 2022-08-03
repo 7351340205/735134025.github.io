@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2008–2019</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Aug 2022 20:47:31 +0800</lastBuildDate>
     
 	<atom:link href="https://7351340205.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第二篇测试博客</title>
+      <link>https://7351340205.github.io/blog/post/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 03 Aug 2022 20:47:31 +0800</pubDate>
+      
+      <guid>https://7351340205.github.io/blog/post/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/</guid>
+      <description>&lt;p&gt;Helelo&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
