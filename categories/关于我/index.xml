@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>关于我 on 雾中花</title>
+    <link>https://frostrainn.github.io/blog/categories/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+    <description>Recent content in 关于我 on 雾中花</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright © 2008–2019</copyright>
+    <lastBuildDate>Thu, 04 Aug 2022 10:05:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://frostrainn.github.io/blog/categories/%E5%85%B3%E4%BA%8E%E6%88%91/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于我</title>
+      <link>https://frostrainn.github.io/blog/about/</link>
+      <pubDate>Thu, 04 Aug 2022 10:05:42 +0800</pubDate>
+      
+      <guid>https://frostrainn.github.io/blog/about/</guid>
+      <description>&lt;p&gt;123123&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
